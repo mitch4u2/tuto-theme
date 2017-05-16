@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbf4b262-3dd3-4f85-963c-35e3ab9bdd22" name="Default" comment="wp query categories">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content-featured.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page-home.php" />
+    <list default="true" id="bbf4b262-3dd3-4f85-963c-35e3ab9bdd22" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content-image.php" afterPath="$PROJECT_DIR$/content-image.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content.php" afterPath="$PROJECT_DIR$/content.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="composer.phar" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -451,12 +446,20 @@
       <workItem from="1494690806324" duration="1794000" />
       <workItem from="1494723500377" duration="2230000" />
       <workItem from="1494797491720" duration="5566000" />
-      <workItem from="1494885706760" duration="5760000" />
+      <workItem from="1494885706760" duration="5806000" />
     </task>
+    <task id="LOCAL-00001" summary="wp query categories">
+      <created>1494896892595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494896892595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29185000" />
+    <option name="totallyTimeSpent" value="29231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
